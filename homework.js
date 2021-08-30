@@ -1,4 +1,4 @@
-// let card = document.getElementsByTagName('div');
+
 let img = document.getElementsByTagName('img')
 
 for(let i = 0; i< img.length;i++){
